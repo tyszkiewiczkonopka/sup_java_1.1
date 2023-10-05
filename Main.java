@@ -18,7 +18,7 @@ public class Main {
             }
 
             if (guessedNumber > numberToGuess) {
-                System.out.println("Your number is GREATER than the one you are trying to guess");
+                System.out.println("Your number is GRATER than the one you are trying to guess");
             } else {
                 System.out.println("Your number is LOWER than the one you are trying to guess");
             }
